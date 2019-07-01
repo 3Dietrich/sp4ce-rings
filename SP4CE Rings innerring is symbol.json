@@ -1,0 +1,31 @@
+{
+    "parameterSets": {
+        "ewg": {
+            "$fn": "96",
+            "debugview": "false",
+            "font_spacing": "1",
+            "height_main": "25",
+            "holding_bar": "false",
+            "holding_bar_height": "0.5",
+            "holding_bar_xrange": "0.6",
+            "midpart_2d": "\/Users\/dpa\/3dprint\/openSCAD\/accumulation\/sorted acc\/multi axe coin (sp4ce.berlin)\/ewg 2d cut.dxf",
+            "midpart_corr_x": "1.7",
+            "midpart_corr_y": "0",
+            "midpart_height": "25",
+            "midpart_is_centeraligned": "false",
+            "midpart_scale_x": "1",
+            "midpart_scale_y": "1",
+            "midpart_string": "",
+            "midpart_width": "40",
+            "multi_axe_konstruct": "false",
+            "outer_diameter": "70",
+            "ring_thickness": "2.5",
+            "rotate_B": "0",
+            "rotate_C": "0",
+            "rotate_D": "0",
+            "string_font": "Liberation Sans:style=Bold",
+            "tolerance": "0.35"
+        }
+    },
+    "fileFormatVersion": "1"
+}
